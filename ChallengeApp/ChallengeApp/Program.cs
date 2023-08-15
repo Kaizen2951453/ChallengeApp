@@ -16,5 +16,5 @@ else if (age < 18 && sex != "kobieta")
 }
 else if (age > 18 && sex != "kobieta")
 {
-    Console.WriteLine("Pełnoletni mężczyzna")
+    Console.WriteLine("Pełnoletni mężczyzna");
 }
